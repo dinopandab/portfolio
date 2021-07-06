@@ -1,0 +1,15 @@
+.header{
+    display:flex;
+    justify-content:flex-start;
+    border:6px solid; 
+    border-color:red;
+    background-color:red;
+    
+}
+.left-side-hd{
+    margin-left:70%;
+    display:flex;
+}
+.intro-scrn{
+    background-image:url();
+}
