@@ -1,15 +1,26 @@
+body{
+    margin: 0px!important;
+}
+p{
+    color:grey;
+}
 .header{
     display:flex;
     justify-content:flex-start;
     border:6px solid; 
-    border-color:red;
-    background-color:red;
+    border-color:black;
+    background-color:black;
     
 }
-.left-side-hd{
+.left-side-hd{ 
     margin-left:70%;
     display:flex;
 }
 .intro-scrn{
-    background-image:url();
+  background-image:url(https://imgur.com/dIdjKqN.jpg);
+  background-repeat: no-repeat;
+  width: 1000%;
+  height:500px;
 }
+
+
