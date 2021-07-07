@@ -1,8 +1,14 @@
 body{
     margin: 0px!important;
 }
+.sound-cntl{
+    color:rgb(219, 219, 219);
+}
 .hd-word{
     color:rgb(219, 219, 219);
+    margin-right:25px;
+    font-size:21px;
+    font-family: 'Poppins', sans-serif;
 }
 .header{
     display:flex;
@@ -27,4 +33,8 @@ body{
     width: 100%; ;
     height:657px;
 }
-
+.grey-area{
+    background-color: rgb(78, 78, 78);
+    width:50%;
+    height:50%; 
+}
