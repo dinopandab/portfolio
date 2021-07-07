@@ -1,8 +1,8 @@
 body{
     margin: 0px!important;
 }
-p{
-    color:grey;
+.hd-word{
+    color:rgb(219, 219, 219);
 }
 .header{
     display:flex;
@@ -17,10 +17,14 @@ p{
     display:flex;
 }
 .intro-scrn{
-  background-image:url(https://imgur.com/dIdjKqN.jpg);
+  background-image:url(https://imgur.com/45wlykT.jpg);
   background-repeat: no-repeat;
-  width: 1000%;
-  height:500px;
+  width: 100% ;
+  height: 657px ;
 }
-
+.About-me{
+    background-color: black;
+    width: 100%; ;
+    height:657px;
+}
 
