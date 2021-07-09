@@ -1,7 +1,7 @@
 body{
     margin: 0px!important;
 }
-.sound-cntl{
+.sound-cntrl{
     color:rgb(219, 219, 219);
 }
 .hd-word{
@@ -33,8 +33,21 @@ body{
     width: 100%; ;
     height:657px;
 }
-.grey-area{
-    background-color: rgb(78, 78, 78);
-    width:50%;
-    height:50%; 
+.scroll-image{
+    margin-left: 130px;
+    margin-top:50px;
+}
+.pic-wrd{
+    color: black;
+}
+.projects{
+    background-color: black;
+    width: 100%; ;
+    height:657px; 
+}
+.prjt-title{
+    color :red;
+    font-size:55px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
 }
