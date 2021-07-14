@@ -83,7 +83,7 @@ ul{
     margin-left:40px;
     
 }
-.overlay {
+/*.overlay {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -102,8 +102,30 @@ ul{
     width:8%;
     padding-top:240px;
     margin-left: 340px;
+} */
+
+
+
+.prjt-pic {
+  width: 8%;
+  margin-left:340px;
+  padding-top:240px;
+}
+.prjt-pic:hover  {
+  opacity: .6;
 }
 
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
 
 #contact{
     background-color:black;
