@@ -110,13 +110,28 @@ ul{
   width: 104px;
   margin-left:343px;
   padding-top:210px;
- 
+
 }
 .pic2{
     width: 104px;
-    margin-left:388px;
+    margin-left:15px;
     padding-top:210px;  
 }
+.pic3{
+    width:120px;
+    padding-top: 190px;
+    padding-left:13px ;
+}
+.pic4{
+    width:120px;
+    padding-top: 190px;
+    padding-left:15px ;
+}
+.pic5{
+    
+}
+
+
 
 .prjt-pic:hover  {
   opacity: .6;
