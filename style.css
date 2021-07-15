@@ -163,6 +163,14 @@ ul{
     text-align: center;
      padding-top: 105px; 
 }
+.cont-pic1{
+   width:35%;
+  padding-left:140px;
+}
+.cont-pic2{
+    width:35%;
+   padding-left:160px;
+ }
 #SimpleCarouselExample{
     margin-left: auto !important;
     margin-right: auto !important;
