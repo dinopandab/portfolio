@@ -106,11 +106,18 @@ ul{
     
 }
 
-.prjt-pic {
-  width: 8%;
-  margin-left:340px;
-  padding-top:240px;
+.pic1 {
+  width: 104px;
+  margin-left:343px;
+  padding-top:210px;
+ 
 }
+.pic2{
+    width: 104px;
+    margin-left:388px;
+    padding-top:210px;  
+}
+
 .prjt-pic:hover  {
   opacity: .6;
 }
