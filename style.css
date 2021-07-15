@@ -72,8 +72,15 @@ ul{
   }
   .carousel-caption{
       color: #BA181B !important;
-     
   }
+  /* .carousel-inner > .carousel-item {
+    position: relative;
+    display: none;
+    -webkit-transition: -webkit-transform 1.2s ease-in-out !important;
+    -o-transition: -o-transform 1.s ease-in-out !important;
+    transition: transform .6s ease-in-out !important;
+} */
+
   .caption1{
     padding-left:350px;
       margin-bottom: 130px;
