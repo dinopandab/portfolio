@@ -18,6 +18,11 @@ body{
     border-left:#F5F3F4;
     border-bottom:black;
     border-top:black;
+    
+    
+}
+.hd-word:hover{
+	color: #BA181B;
 }
 .header{
     display:flex;
@@ -54,7 +59,7 @@ ul{
     color:#BA181B;
     font-family: 'Poppins', sans-serif;
     margin-left: 375px;
-    text-shadow:20px 10px 12px black;
+    text-shadow:15px 10px 12px #3b0c0c;
 }
 #about-me{
     background-color: black;
@@ -73,21 +78,36 @@ ul{
   .carousel-caption{
       color: #BA181B !important;
   }
-  /* .carousel-inner > .carousel-item {
-    position: relative;
-    display: none;
-    -webkit-transition: -webkit-transform 1.2s ease-in-out !important;
-    -o-transition: -o-transform 1.s ease-in-out !important;
-    transition: transform .6s ease-in-out !important;
-} */
 
   .caption1{
     padding-left:350px;
-      margin-bottom: 130px;
+      margin-bottom: 80px;
+      font-size: 17px; 
+      font-family: 'Poppins', sans-serif;
   }
   .caption2{
-    padding-left:370px;
-    margin-bottom: 85px;
+    padding-left:430px;
+    margin-bottom: 70px;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+  }
+  .caption3{
+    padding-left:430px;
+    margin-bottom: 50px;  
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+  }
+  .caption4{
+    padding-left:430px; 
+    margin-bottom: 50px;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+  }
+  .caption5{
+    padding-left:430px; 
+    margin-bottom: 45px;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
   }
      
   
@@ -109,7 +129,7 @@ ul{
     color :#BA181B;
     font-size:65px;
     font-family: 'Poppins', sans-serif;
-    padding-left: 20px;
+    padding-left: 40px;
     
 }
 
@@ -139,7 +159,8 @@ ul{
 
 
 .prjt-pic:hover  {
-  opacity: .6;
+   
+    opacity: .6 ; 
 }
 
 .text {
@@ -166,17 +187,28 @@ ul{
 .contact-title{
     color :#BA181B;
     font-size:55px;
-    font-family: 'Poppins', sans-serif;
+     font-family: 'Poppins', sans-serif; 
     text-align: center;
-     padding-top: 105px; 
+     padding-top: 110px; 
 }
 .cont-pic1{
-   width:35%;
-  padding-left:140px;
+   width:63%;
+  padding-left:480px;
 }
 .cont-pic2{
     width:35%;
    padding-left:160px;
+ }
+ .contact-caption{
+     margin-left:435px;
+     color:#BA181B;
+     font-size: 20px;
+ }
+ .credits{
+     padding-top: 40px;
+     margin-left:740px;
+     color:#838383;
+
  }
 #SimpleCarouselExample{
     margin-left: auto !important;
